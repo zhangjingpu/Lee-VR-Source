@@ -84,6 +84,14 @@
 - [Cardboard虚拟现实开发技巧(一)之放置一个固定在视野中的物体](http://blog.csdn.net/sunmc1204953974/article/details/50402331)
 - [ Cardboard虚拟现实开发技巧(二)之保持手机常亮](http://blog.csdn.net/sunmc1204953974/article/details/50423667)
 
+***
+###CardBoard开发文章2
+- [UnityVR插件CardboardSDKForUnity解析（一）](http://blog.csdn.net/mao_xiao_feng/article/details/51924027)
+- [UnityVR插件CardboardSDKForUnity解析（二）](http://blog.csdn.net/mao_xiao_feng/article/details/52074384)
+- [UnityVR插件CardboardSDKForUnity解析（三）](http://blog.csdn.net/mao_xiao_feng/article/details/52268944)
+- [UnityVR插件CardboardSDKForUnity解析（四）](http://blog.csdn.net/mao_xiao_feng/article/details/52416439)
+- [UnityVR插件CardboardSDKForUnity解析（五）](http://blog.csdn.net/mao_xiao_feng/article/details/52454560)
+- [UnityVR插件CardboardSDKForUnity解析（六）](http://blog.csdn.net/mao_xiao_feng/article/details/52599298)
 
 ***
 ##Oculus 开发文章
